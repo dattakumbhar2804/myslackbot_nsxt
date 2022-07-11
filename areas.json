@@ -1,0 +1,8 @@
+{ "areas" : {"L3": ["ESX_L3_NS2Tier_IPv6", "IPv6_DAD_ESX", "L3_NSXtonVDS"],
+             "DFW": ["VDS_DFW_GATING_ESX", "Policy-DFW-FEAT-GatingTest-01", "DFW.VerifyDataPathAndVmotionWith_L4L7_SSH_ALG_FTP", "DFW.POLICY.VerifyDataPathWith_ICMP_UDP_TCP"],
+             "Operations": ["NSXTonVDS.PortMirror.ERSPAN2Basic", "CAT_GATING.IPFIX", "CAT_GATING.WORKFLOW_TRACING", "nsxt_netopa_tunnellatency_tz", "nsxt_netopa_end2endlatency", "nsxt_netopa_tunnellatency_tn"],
+	     "Federation-Core": ["L2L3NetworkingAdvanced", "L2L3NetworkingBasic"],
+	     "SmartNIC": ["NSX-SmartNIC-DFW", "NSX-SmartNIC-L2-L3", "NSX-SmartNIC-PortMirror"],
+	     "SmartNIC-Elba": ["NSX-Elba-L2-L3", "NSX-SmartNIC-DFW", "NSX-SmartNIC-PortMirror"]
+                }
+}
